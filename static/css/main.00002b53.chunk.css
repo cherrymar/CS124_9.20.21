@@ -1,0 +1,2 @@
+body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}code{font-family:source-code-pro,Menlo,Monaco,Consolas,"Courier New",monospace}.container{display:grid;grid-template-columns:20% 20% 20%}.name{grid-column-start:1;font-weight:700}.email,.name{grid-column-end:span 1}.email{grid-column-start:2}.phone{grid-column-start:3;grid-column-end:span 1}
+/*# sourceMappingURL=main.00002b53.chunk.css.map */
